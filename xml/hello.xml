@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- hello -->
+<!DOCTYPE scores SYSTEM "hi.dtd">
+<scores>
+<student id="101">
+	<name>Bob</name>
+	<gender>male</gender>
+	<score>80</score>
+	<course>java</course>	
+</student>
+<student id="102">
+	<name>Mary</name>
+	<gender>female</gender>
+	<score>80</score>
+	<course>java</course>	
+</student>
+
+</scores>
